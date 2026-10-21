@@ -1,5 +1,7 @@
 # Origin Style Scientific Plot
 
+English | [简体中文](README.zh-CN.md)
+
 A Codex skill for creating Origin-style scientific plots from Excel, CSV, or TSV data. Exports **vector PDF and 600 dpi TIFF by default**, with optional PNG and SVG output.
 
 ## Features
