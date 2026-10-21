@@ -1,0 +1,4 @@
+interface:
+  display_name: "Origin Style Scientific Plot"
+  short_description: "Publication-ready scientific plots"
+  default_prompt: "Use $origin-style-scientific-plot to create publication-ready Origin-style plots from my spreadsheet data."
